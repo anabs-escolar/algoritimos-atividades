@@ -1,0 +1,2 @@
+Método seleção usado para ordenação.
+10000 Tempo de ordenação: 119038 microsegundo(s)
